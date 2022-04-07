@@ -1,6 +1,6 @@
 ### Oi, pessoal! Eu sou o Bernardo Nacif e sejam bem-vindos ao meu Github 👨‍💻😉
 
-- 🔭 Hoje eu trabalho com desenvolvimento de sistemas
+- 🔭 Hoje eu trabalho com desenvolvimento de sistemas de inovação
 - 🌱 Estudando JS e Python 
 
 ##
