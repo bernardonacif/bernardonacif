@@ -1,4 +1,4 @@
-<h1 align="center"> Hello everyone! Welcome to my profile 👨‍💻😉.</h1>
+<h1 align="center"> Hello everyone! Welcome to my profile 👨‍💻😉</h1>
 <h3 align="center"> IT technical lead, working with systems development projects and innovations. </h3>
 <br>
 <!-- Contatos -->
@@ -18,11 +18,11 @@
 <!-- Experiencia -->
 
 ##  👨‍💻 Experience:
-During graduation I was an intern on the technology projects team deployed infrastructure and new systems developments. 
+During my graduation I worked as an intern on the technology projects team. I was responsible for new systems development and deploying  infrastructure.
 <br/>
-Currently, I am a technical lead in the development of new systems and innovation.
+Presently I am technical lead in the development of new systems and innovation.
 <br/>
-In a self-taught way I learned to program in python and currently in my studies I am looking to improve python for backend and data science and I also study JS and its frameworks.
+In a self-taught way I learned to program in python and currently in my studies I am looking to improve python for backend and data science. I also study JS and its frameworks.
 
 ## 🚀 Skills:
 
