@@ -1,19 +1,17 @@
 <h1 align="center"> Hello everyone! Welcome to my profile 👨‍💻😉</h1>
 <h3 align="center"> IT technical lead, working with systems development projects and innovations. </h3>
 <br>
+
 <!-- Contatos -->
 
-<div align="center">    
-  <a href="https://github.com/bernardonacif" alt="github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/bernardonacif" alt="linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+<div align="center">
   
-</div>
+🇧🇷 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif)
 
-<br/>
+
+🇺🇸 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif/?locale=en_US)
+
+</div>
 
 <!-- Experiencia -->
 
