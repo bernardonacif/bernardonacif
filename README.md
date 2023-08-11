@@ -18,11 +18,39 @@
 <!-- Experiencia -->
 
 ##  👨‍💻 Experience:
-During my graduation I worked as an intern on the technology projects team. I was responsible for new systems development and deploying  infrastructure.
-<br/>
-Presently I am technical lead in the development of new systems and innovation.
-<br/>
-In a self-taught way I learned to program in python and currently in my studies I am looking to improve python for backend and data science. I also study JS and its frameworks.
+
+## English:
+
+👋 Hello! I'm Bernardo, a software engineer.
+
+My journey began as an intern during my university days. I worked on software implementation through integrations of third-party systems with the company's mainframe. I also contributed to infrastructure implementation to support the new systems. I was promoted until reaching the level of Tech Lead in development and system integration projects.
+
+During this period, I self-taughtly acquired expertise in Python (Django), JavaScript (Node.js), databases, DevOps (Docker, Jenkins, Kubernetes), and server management (Linux and Windows).
+
+Currently, besides constantly seeking to enhance the technologies I master, I am dedicating myself to learning .NET #C, Java, cloud services like AWS and Azure, and developing optimized solutions that don't consume resources and processing time.
+
+Presently, I work as a Software Engineer in the financial sector, where I apply my expertise in developing solutions aimed at performance optimization, error correction, continuous improvements, and meticulous monitoring of performance indicators.
+
+Join me on this journey as I navigate the ever-evolving technological landscape and continuously enhance my skills.
+
+
+---
+
+## Português (Brasil):
+
+👋 Olá! Eu sou Bernardo, engenheiro de software.  
+
+Minha trajetória começou como estagiário durante meus dias de universidade. Trabalhei na implementação de softwares por meio de integrações de sistemas de terceiros com o mainframe da empresa. Também contribuí para implementaçao na infraestrutura para suportar os novos sistemas. Fui efetivado até chegar ao nível de Tech Lead nos projetos de desenvolvimento e integração de sistemas.
+
+Durante esse período, de forma autodidata, adquiri a expertise em Python (Django), JavaScript (Node.js), bancos de dados, DevOps (Docker, Jenkins, Kubernetes) e gerenciamento de servidores (Linux e Windows).
+
+Atualmente, além de estar sempre buscando aprimorar as tecnologias que domino, estou me dedicando para o aprendizado .NET #C, Java, serviços de nuvem como AWS e Azure e desenvolver soluções otimizadas que não consumam recursos e tempo de processamento.
+
+Atualmente, atuo como Engenheiro de Software no mercado financeiro, onde aplico minha expertise no desenvolvimento de soluções direcionadas à otimização de desempenho, correção de erros, melhorias contínuas e monitoramento meticuloso dos indicadores de performance.
+
+Acompanhe-me nessa jornada enquanto navego pelo cenário tecnológico em constante evolução e continuamente aprimoro minhas habilidades.
+
+---
 
 ## 🚀 Skills:
 
