@@ -27,7 +27,7 @@ My journey began as an intern during my university days. I worked on software im
 
 During this period, I self-taughtly acquired expertise in Python (Django), JavaScript (Node.js), databases, DevOps (Docker, Jenkins, Kubernetes), and server management (Linux and Windows).
 
-Currently, besides constantly seeking to enhance the technologies I master, I am dedicating myself to learning .NET #C, Java, cloud services like AWS and Azure, and developing optimized solutions that don't consume resources and processing time.
+Currently, besides constantly seeking to enhance the technologies I master, I am dedicating myself to learning .NET C#, Java, cloud services like AWS and Azure, and developing optimized solutions that don't consume resources and processing time.
 
 Presently, I work as a Software Engineer in the financial sector, where I apply my expertise in developing solutions aimed at performance optimization, error correction, continuous improvements, and meticulous monitoring of performance indicators.
 
@@ -40,15 +40,16 @@ Join me on this journey as I navigate the ever-evolving technological landscape 
 
 👋 Olá! Eu sou Bernardo, engenheiro de software.  
 
-Minha trajetória começou como estagiário durante meus dias de universidade. Trabalhei na implementação de softwares por meio de integrações de sistemas de terceiros com o mainframe da empresa. Também contribuí para implementaçao na infraestrutura para suportar os novos sistemas. Fui efetivado até chegar ao nível de Tech Lead nos projetos de desenvolvimento e integração de sistemas.
+Minha trajetória começou como estagiário durante o período universitário. Trabalhei na implementação de softwares por meio de integrações de sistemas de terceiros com o mainframe da empresa. Também contribuí para implementação na infraestrutura para suportar os novos sistemas. Fui efetivado até chegar ao nível de Tech Lead nos projetos de desenvolvimento e integração de sistemas.
 
 Durante esse período, de forma autodidata, adquiri a expertise em Python (Django), JavaScript (Node.js), bancos de dados, DevOps (Docker, Jenkins, Kubernetes) e gerenciamento de servidores (Linux e Windows).
 
-Atualmente, além de estar sempre buscando aprimorar as tecnologias que domino, estou me dedicando para o aprendizado .NET #C, Java, serviços de nuvem como AWS e Azure e desenvolver soluções otimizadas que não consumam recursos e tempo de processamento.
+Atualmente, além de estar sempre buscando aprimorar as tecnologias que já possuo conhecimento, estou me dedicando para o aprendizado de .NET C#, Java, serviços de nuvem como AWS e Azure e desenvolver soluções otimizadas que não consumam recursos e tempo de processamento.
 
-Atualmente, atuo como Engenheiro de Software no mercado financeiro, onde aplico minha expertise no desenvolvimento de soluções direcionadas à otimização de desempenho, correção de erros, melhorias contínuas e monitoramento meticuloso dos indicadores de performance.
+Hoje, atuo como Engenheiro de Software no mercado financeiro, onde aplico meus conhecimentos no desenvolvimento de soluções direcionadas à otimização de desempenho, correção de erros, melhorias contínuas e monitoramento meticuloso dos indicadores de performance.
 
-Acompanhe-me nessa jornada enquanto navego pelo cenário tecnológico em constante evolução e continuamente aprimoro minhas habilidades.
+Siga-me nessa jornada enquanto navego pelo cenário tecnológico em constante evolução e continuamente aprimoro minhas habilidades.
+
 
 ---
 
