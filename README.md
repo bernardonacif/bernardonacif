@@ -11,6 +11,9 @@
 
 🇺🇸 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif/?locale=en_US)
 
+[![Medium](https://img.shields.io/badge/Medium-Follow-blue)](https://medium.com/@bernardonacif)
+
+
 </div>
 
 <!-- Experiencia -->
