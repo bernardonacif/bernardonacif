@@ -24,6 +24,7 @@
 
 👋 Hello! I'm Bernardo, a software engineer.
 
+<div align="justify">
 My journey began as an intern during my university days. I worked on software implementation through integrations of third-party systems with the company's mainframe. I also contributed to infrastructure implementation to support the new systems. I was promoted until reaching the level of Tech Lead in development and system integration projects.
 
 During this period, I self-taughtly acquired expertise in Python (Django), JavaScript (Node.js), databases, DevOps (Docker, Jenkins, Kubernetes), and server management (Linux and Windows).
@@ -34,13 +35,14 @@ Presently, I work as a Software Engineer in the financial sector, where I apply 
 
 Join me on this journey as I navigate the ever-evolving technological landscape and continuously enhance my skills.
 
-
+</div>
 ---
 
 ## Português (Brasil):
 
 👋 Olá! Eu sou Bernardo, engenheiro de software.  
 
+<div align="justify">
 Minha trajetória começou como estagiário durante o período universitário. Trabalhei na implementação de softwares por meio de integrações de sistemas de terceiros com o mainframe da empresa. Também contribuí para implementação na infraestrutura para suportar os novos sistemas. Fui efetivado até chegar ao nível de Tech Lead nos projetos de desenvolvimento e integração de sistemas.
 
 Durante esse período, de forma autodidata, adquiri a expertise em Python (Django), JavaScript (Node.js), bancos de dados, DevOps (Docker, Jenkins, Kubernetes) e gerenciamento de servidores (Linux e Windows).
@@ -50,7 +52,7 @@ Atualmente, além de estar sempre buscando aprimorar as tecnologias que já poss
 Hoje, atuo como Engenheiro de Software no mercado financeiro, onde aplico meus conhecimentos no desenvolvimento de soluções direcionadas à otimização de desempenho, correção de erros, melhorias contínuas e monitoramento meticuloso dos indicadores de performance.
 
 Siga-me nessa jornada enquanto navego pelo cenário tecnológico em constante evolução e continuamente aprimoro minhas habilidades.
-
+</div>
 
 ---
 
