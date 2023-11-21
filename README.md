@@ -1,5 +1,5 @@
 <h1 align="center"> Hello everyone! Welcome to my profile 👨‍💻😉</h1>
-<h3 align="center"> IT technical lead, working with systems development projects and innovations. </h3>
+<h3 align="center"> Software engineer, working with systems development projects and innovations. </h3>
 <br>
 
 <!-- Contatos -->
