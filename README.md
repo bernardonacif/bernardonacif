@@ -8,6 +8,8 @@
 <!-- Contatos
 <!-- Contatos -->
 
+<picture> <img align="right" src="https://github.com/bernardonacif/bernardonacif/blob/main/pic_01.jpg" width = 250px></picture>
+
 <div align="center">
   
 🇧🇷 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif)
@@ -15,6 +17,7 @@
 🇺🇸 [![Linkedin_br](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardonacif/?locale=en_US)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bernardonacif)
+
 
 <!-- [![Medium](https://img.shields.io/badge/Medium-Follow-blue)](https://medium.com/@bernardonacif) -->
 
