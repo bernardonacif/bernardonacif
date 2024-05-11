@@ -8,7 +8,7 @@
 <!-- Contatos
 <!-- Contatos -->
 
-<picture> <img align="right" src="https://github.com/bernardonacif/bernardonacif/blob/main/pic_01.jpg" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/bernardonacif/bernardonacif/blob/main/src/photos/pic_01.jpg" width = 250px></picture>
 
 <div align="center">
   
